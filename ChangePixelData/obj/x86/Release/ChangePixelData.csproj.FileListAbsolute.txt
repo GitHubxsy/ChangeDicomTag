@@ -1,0 +1,43 @@
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\bin\Release\ChangePixelData.exe.config
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\obj\x86\Release\ChangePixelData.csprojResolveAssemblyReference.cache
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\bin\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\bin\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\bin\Release\Dicom.dll
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\bin\Release\NLog.dll
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\bin\Release\Dicom.xml
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\obj\x86\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\niuProf\ChangePixelData\ChangePixelData\obj\x86\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.exe.config
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\Dicom.dll
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\NLog.dll
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\Dicom.xml
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.csprojResolveAssemblyReference.cache
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.Properties.Resources.resources
+C:\Users\XSY\Desktop\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.csproj.GenerateResource.Cache
+I:\桌面\unknown\niuProf\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.exe.config
+I:\桌面\unknown\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.exe
+I:\桌面\unknown\niuProf\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.exe.config
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\bin\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\bin\Release\NLog.dll
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\bin\Release\Dicom.xml
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.csprojResolveAssemblyReference.cache
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.Properties.Resources.resources
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST\ChangePixelData\obj\x86\Release\ChangePixelData.csproj.GenerateResource.Cache
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\bin\Release\ChangePixelData.exe.config
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\obj\x86\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\obj\x86\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\bin\Release\ChangePixelData.exe
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\bin\Release\ChangePixelData.pdb
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\bin\Release\NLog.dll
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\bin\Release\Dicom.xml
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\obj\x86\Release\ChangePixelData.csprojResolveAssemblyReference.cache
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\obj\x86\Release\ChangePixelData.Properties.Resources.resources
+C:\Users\XSY\Desktop\changDicomTag_0708\ChangePixelData_TEST - 副本\ChangePixelData\obj\x86\Release\ChangePixelData.csproj.GenerateResource.Cache
